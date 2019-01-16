@@ -133,7 +133,7 @@ body {
 	padding-top: 60px;
 	padding-bottom: 40px;
 	text-decoration: underline;
-	text-decoration-color: #DC143C;
+	text-decoration-color: #FF144C;
 }
 
 } 
@@ -185,6 +185,8 @@ body {
 	font-size: 24pt;
 	font-family: 'Cedarville Cursive', cursive;
 	padding-bottom: 30px;
+	text-decoration: underline;
+	text-decoration-color: #FF144C;
 }
 .kontakt input[type=text],
 .kontakt input[type=email],
@@ -276,6 +278,8 @@ body {
 	text-align: center;
 	padding-top: 60px;
 	padding-bottom: 40px;
+	text-decoration: underline;
+	text-decoration-color: #FF144C;
 }
 
 .o-meni p{
@@ -330,6 +334,8 @@ body {
 	padding-top: 60px;
 	padding-bottom: 40px;
 	font-family: 'Cedarville Cursive', cursive;
+	text-decoration: underline;
+	text-decoration-color: #FF144C;
 	
 }
 .clanci .mt-60 {
@@ -369,6 +375,8 @@ body {
 	text-align: center;
 	padding-top: 60px;
 	padding-bottom: 40px;
+	text-decoration: underline;
+	text-decoration-color: #FF144C;
 }
 .social-profile {
 	height: 250px;
